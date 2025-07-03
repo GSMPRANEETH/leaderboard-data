@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-06-27T11:05:16.000Z",
+  "last_updated": "2025-07-01T22:55:12.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/docs#145",
+      "time": "2025-07-01T22:55:12.000Z",
+      "link": "https://github.com/ohcnetwork/docs/pull/145",
+      "text": "Updated Installation docs for Scribe"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_scribe#10",
+      "time": "2025-07-01T07:42:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_scribe/pull/10",
+      "text": "Minor : Cleanup",
+      "turnaround_time": 464478
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_scribe_fe#10",
@@ -13550,21 +13565,21 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_scribe/pull/10",
-      "title": "Minor : Cleanup",
+      "link": "https://github.com/ohcnetwork/docs/pull/145",
+      "title": "Updated Installation docs for Scribe",
       "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_scribe/pull/6",
       "title": "Genkit",
-      "stale_for": 25,
+      "stale_for": 31,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/11589",
       "title": "Added Structured Question for Consent",
-      "stale_for": 11,
+      "stale_for": 16,
       "labels": [
         "Changes Required",
         "Merge Conflict"
